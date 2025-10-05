@@ -34,6 +34,7 @@ Revenue tracked from subscription plans (Premium, VIP).
 
 <img width="1241" height="644" alt="image" src="https://github.com/user-attachments/assets/16c14420-71ea-4291-a0f0-f90c145edf89" />
 
+
 <img width="656" height="411" alt="image" src="https://github.com/user-attachments/assets/d26e80dc-0043-4c27-aa3e-480cd952523a" />
 
 📈 Content Insights
