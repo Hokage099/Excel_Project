@@ -20,21 +20,7 @@ Content Data (Jotstar_Contents)
 
 Content metadata (ID, type, language, genre)
 
-Runtime analysis
-
-Total number of contents (~2360)
-
-Average content duration (~90 mins)
-
-Content Consumption (Jotstar_Content_consumption)
-
-User watch time (in minutes)
-
-Device type distribution (Mobile, Laptop, TV)
-
-Total users (~44,620)
-
-Total watch time (~941M minutes)
+<img width="1236" height="659" alt="image" src="https://github.com/user-attachments/assets/4d96e5b3-d3a4-4779-bd7a-c6f6f88d7ac5" />
 
 📈 Dashboard Insights
 
@@ -46,7 +32,11 @@ Paid Users: ~32,524
 
 Revenue tracked from subscription plans (Premium, VIP).
 
-Content Insights
+<img width="1241" height="644" alt="image" src="https://github.com/user-attachments/assets/16c14420-71ea-4291-a0f0-f90c145edf89" />
+
+<img width="656" height="411" alt="image" src="https://github.com/user-attachments/assets/d26e80dc-0043-4c27-aa3e-480cd952523a" />
+
+📈 Content Insights
 
 Library size: ~2360 titles
 
@@ -54,7 +44,7 @@ Most common runtime: ~90 minutes
 
 Wide variety of languages & genres.
 
-Consumption Patterns
+📈  Consumption Patterns
 
 Majority of users watch via Mobile.
 
